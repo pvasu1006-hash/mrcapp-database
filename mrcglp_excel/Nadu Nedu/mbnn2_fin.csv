@@ -1,0 +1,48 @@
+﻿id,udise,sch_name,sch_type,mbnn_sanctioned,no_acrs,acr_amt,other_amt,tot_amt
+1,202010,Chemuduguda,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+2,202089,Chinaravikona,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+3,202090,Chinavankadara,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+4,202015,Duddukhallu,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+5,202079,Gadivonka Dara,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+6,202019,Goyapaka,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+7,202095,Ijjakaai,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+8,202022,Iridi,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+9,202098,Kuntesu,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+10,202043,Lumbesu,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+11,202099,Mantrijyola,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+12,202116,Tikkiabal,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+13,202070,Vadhaputti,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+14,202072,Vanakabhadi,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+15,202074,Vangara,AWC,ACRs + AWCs Partial Repairs,1,13.5,2.5,16
+16,28120204101,Aided P S Lumbesu,Pvt.Aided,ACRs + NN 10 Components,1,13,12,25
+17,28120202801,Aided P S Tadikonda,Pvt.Aided,ACRs + NN 10 Components,1,13,12,25
+18,28120203901,Gps Tholukharja,Primary,ACRs + NN 10 Components,1,13,12,25
+19,28120211901,Gps(Tw) Vadaputti,Primary,ACRs + NN 10 Components,1,13,16,29
+20,28120207615,Gtwas Bhadragiri,Secondary,ACRs + NN 10 Components,5,65,69,134
+21,28120209801,Mpps Bayyada,Primary,ACRs + NN 10 Components,2,26,12,38
+22,28120211201,Mpps Diguvaderuvada,Primary,ACRs + NN 10 Components,2,26,16,42
+23,28120202401,Mpps Gorati,Primary,ACRs + NN 10 Components,1,13,12,25
+24,28120203801,Mpps Iridi,Primary,ACRs + NN 10 Components,3,39,12,51
+25,28120204901,Mpps Malluguda,Primary,ACRs + NN 10 Components,3,36,16,52
+26,28120207701,Mpps Vathada,Primary,ACRs + NN 10 Components,1,13,12,25
+27,28120209301,Mpps Y Chorupalli,Primary,ACRs + NN 10 Components,1,13,12,25
+28,28120211001,Gps Balesu,Primary,ACRs only,1,12,0,12
+29,28120200701,Gps Keesari,Primary,ACRs only,1,12,0,12
+30,28120203001,Gps Pedakharja,Primary,ACRs only,1,12,0,12
+31,28120200901,Gps Vangara,Primary,ACRs only,1,12,0,12
+32,28120207607,Kgbv G.L.Puram,Secondary,ACRs Only,4,52,0,52
+33,28120203501,Mpps Addamguda,Primary,ACRs only,1,12,0,12
+34,28120205201,Gps Beerupadu,Primary,NN 10 Components only,0,0,12,12
+35,28120204601,Gps Ch Binnidi,Primary,NN 10 Components only,0,0,12,12
+36,28120209501,Gps Geesada,Primary,NN 10 Components only,0,0,12,12
+37,28120207002,Gps Jk Padu Colny,Primary,NN 10 Components only,0,0,16,16
+38,28120205001,Gps Lada,Primary,NN 10 Components only,0,0,12,12
+39,28120212303,Gps Medaraganda,Primary,NN 10 Components only,0,0,12,12
+40,28120200301,Gps Thota,Primary,NN 10 Components only,0,0,12,12
+41,28120207501,Mpps Elwinpeta,Primary,NN 10 Components only,0,0,12,12
+42,28120210001,Mpps Gorada,Primary,NN 10 Components only,0,0,12,12
+43,28120209201,Mpps Jarna,Primary,NN 10 Components only,0,0,12,12
+44,28120204701,Mpps Kanasingi,Primary,NN 10 Components only,0,0,12,12
+45,28120210801,Mpps Regidi,Primary,NN 10 Components only,0,0,16,16
+46,28120207001,Mpps Savarakotapadu,Primary,NN 10 Components only,0,0,12,12
+47,28120207201,Mpps Thatiseela,Primary,NN 10 Components only,0,0,12,12
