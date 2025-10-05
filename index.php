@@ -1,10 +1,4 @@
 <?php
-if (class_exists('PDO')) {
-  print "PDO is installed"; 
-}
-else {
-  print "PDO NOT installed";
-}
-
-phpinfo();
+echo 'Welcome:';
+echo 'This is MRC|GLP Mobile Application Backend Database Server!';
 ?>
